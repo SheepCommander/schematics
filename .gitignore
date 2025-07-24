@@ -1,0 +1,10 @@
+# Ignore everything
+**/**
+
+# Include schematics
+!**.msch
+
+# Include gitignore
+!.gitignore
+# Include README
+!README.md
